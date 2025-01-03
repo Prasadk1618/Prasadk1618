@@ -41,7 +41,7 @@ I'm an aspiring Cloud and DevOps engineer passionate about building scalable and
 <img src="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only" alt="streak" />
   
 # 🚀 Projects 
-* Three Tier Architecture
+### Three Tier Architecture
   
 Description: Implemented a robust three-tier architecture utilizing AWS. This included deploying 3 EC2 instances across different Availability Zones, establishing 3 subnets within a custom VPC, managing data with RDS, and monitoring with CloudWatch and SNS.
 # 🌱 Currently Learning
